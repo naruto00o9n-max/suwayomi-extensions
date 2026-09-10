@@ -11,13 +11,13 @@
                 "name": "KakaoPage",
                 "packageName": "eu.kanade.tachiyomi.extension.ko.kakaopage",
                 "resources": {
-                    "apkUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/apk/tachiyomi-ko.kakaopage-v1.7.0.apk",
+                    "apkUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/apk/tachiyomi-ko.kakaopage-v1.6.2.apk",
                     "iconUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/icon/eu.kanade.tachiyomi.extension.ko.kakaopage.png",
-                    "jarUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/jar/tachiyomi-ko.kakaopage-v1.7.0.jar"
+                    "jarUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/jar/tachiyomi-ko.kakaopage-v1.6.2.jar"
                 },
                 "extensionLib": "1.6",
                 "versionCode": 3,
-                "versionName": "1.7.0",
+                "versionName": "1.6.2",
                 "contentWarning": "CONTENT_WARNING_SAFE",
                 "sources": [
                     {
