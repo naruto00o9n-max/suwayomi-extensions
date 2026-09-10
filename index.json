@@ -1,0 +1,33 @@
+{
+  "name": "naruto00o9n-max",
+  "badgeLabel": "naruto00o9n-max",
+  "signingKey": "3e2e30edabb5cf7dd18c973dbcd09bfa74d0796afd9b1feb72a15bde0ef4f51d",
+  "contact": {
+    "website": "https://github.com/naruto00o9n-max"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "KakaoPage",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.kakaopage",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/apk/tachiyomi-ko.kakaopage-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/icon/eu.kanade.tachiyomi.extension.ko.kakaopage.png",
+          "jarUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/jar/tachiyomi-ko.kakaopage-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 2,
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 5781574824436767000,
+            "name": "KakaoPage",
+            "language": "ko",
+            "homeUrl": "https://page.kakao.com"
+          }
+        ]
+      }
+    ]
+  }
+}
