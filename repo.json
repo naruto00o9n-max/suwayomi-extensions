@@ -1,9 +1,9 @@
 {
-    "index_v2": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/index.json",
-    "meta": {
-        "name": "naruto00o9n-max",
-        "shortName": "naruto00o9n-max",
-        "website": "https://github.com/naruto00o9n-max",
-        "signingKeyFingerprint": "af17c332706a5b4a178802885a16dd127ee3af887ab5efa519239b18e86ed88e"
-    }
+  "index_v2": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/index.json",
+  "meta": {
+    "name": "naruto00o9n-max",
+    "shortName": "naruto00o9n-max",
+    "website": "https://github.com/naruto00o9n-max",
+    "signingKeyFingerprint": "225efee8f7aea895b963257a6ec2ed09fd71fefe9c3a720c64f18ac4b5c2da6f"
+  }
 }

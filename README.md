@@ -7,6 +7,7 @@
 | الإضافة | اللغة | الموقع |
 |---|---|---|
 | KakaoPage (كاكاو بيج) | كوري KO | https://page.kakao.com |
+| LuaComic (لوا كوميك) | إنجليزي EN | https://luacomic.org |
 
 ## طريقة الإضافة في Suwayomi
 

@@ -1,33 +1,54 @@
 {
-    "name": "naruto00o9n-max",
-    "badgeLabel": "naruto00o9n-max",
-    "signingKey": "af17c332706a5b4a178802885a16dd127ee3af887ab5efa519239b18e86ed88e",
-    "contact": {
-        "website": "https://github.com/naruto00o9n-max"
-    },
-    "extensionList": {
-        "extensions": [
-            {
-                "name": "KakaoPage",
-                "packageName": "eu.kanade.tachiyomi.extension.ko.kakaopage",
-                "resources": {
-                    "apkUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/apk/tachiyomi-ko.kakaopage-v1.6.2.apk",
-                    "iconUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/icon/eu.kanade.tachiyomi.extension.ko.kakaopage.png",
-                    "jarUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/jar/tachiyomi-ko.kakaopage-v1.6.2.jar"
-                },
-                "extensionLib": "1.6",
-                "versionCode": 3,
-                "versionName": "1.6.2",
-                "contentWarning": "CONTENT_WARNING_SAFE",
-                "sources": [
-                    {
-                        "id": 5781574824436767000,
-                        "name": "KakaoPage",
-                        "language": "ko",
-                        "homeUrl": "https://page.kakao.com"
-                    }
-                ]
-            }
+  "name": "naruto00o9n-max",
+  "badgeLabel": "naruto00o9n-max",
+  "signingKey": "225efee8f7aea895b963257a6ec2ed09fd71fefe9c3a720c64f18ac4b5c2da6f",
+  "contact": {
+    "website": "https://github.com/naruto00o9n-max"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "KakaoPage",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.kakaopage",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/apk/tachiyomi-ko.kakaopage-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/icon/eu.kanade.tachiyomi.extension.ko.kakaopage.png",
+          "jarUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/jar/tachiyomi-ko.kakaopage-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 3,
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 5781574824436767000,
+            "name": "KakaoPage",
+            "language": "ko",
+            "homeUrl": "https://page.kakao.com"
+          }
         ]
-    }
+      },
+      {
+        "name": "LuaComic",
+        "packageName": "eu.kanade.tachiyomi.extension.en.luacomic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/apk/tachiyomi-en.luacomic-v1.6.0.apk",
+          "iconUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.luacomic.png",
+          "jarUrl": "https://raw.githubusercontent.com/naruto00o9n-max/suwayomi-extensions/main/jar/tachiyomi-en.luacomic-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 1,
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 8961806143330616463,
+            "name": "LuaComic",
+            "language": "en",
+            "homeUrl": "https://luacomic.org"
+          }
+        ]
+      }
+    ]
+  }
 }
